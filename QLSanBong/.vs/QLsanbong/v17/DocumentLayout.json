@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuanLySanBong\\QLSanBong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A410A9-92CE-47C8-A580-D68628ABEEB4}|QLsanbong.csproj|d:\\quanlysanbong\\qlsanbong\\formdatsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A410A9-92CE-47C8-A580-D68628ABEEB4}|QLsanbong.csproj|solutionrelative:formdatsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A410A9-92CE-47C8-A580-D68628ABEEB4}|QLsanbong.csproj|d:\\quanlysanbong\\qlsanbong\\formdatsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A410A9-92CE-47C8-A580-D68628ABEEB4}|QLsanbong.csproj|solutionrelative:formdatsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A410A9-92CE-47C8-A580-D68628ABEEB4}|QLsanbong.csproj|d:\\quanlysanbong\\qlsanbong\\formhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A410A9-92CE-47C8-A580-D68628ABEEB4}|QLsanbong.csproj|solutionrelative:formhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A410A9-92CE-47C8-A580-D68628ABEEB4}|QLsanbong.csproj|d:\\quanlysanbong\\qlsanbong\\formhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A410A9-92CE-47C8-A580-D68628ABEEB4}|QLsanbong.csproj|solutionrelative:formhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDatSan.cs",
+              "DocumentMoniker": "D:\\QuanLySanBong\\QLSanBong\\FormDatSan.cs",
+              "RelativeDocumentMoniker": "FormDatSan.cs",
+              "ToolTip": "D:\\QuanLySanBong\\QLSanBong\\FormDatSan.cs",
+              "RelativeToolTip": "FormDatSan.cs",
+              "ViewState": "AgIAAIsBAAAAAAAAAAAwwK8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:47:55.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDatSan.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLySanBong\\QLSanBong\\FormDatSan.cs",
+              "RelativeDocumentMoniker": "FormDatSan.cs",
+              "ToolTip": "D:\\QuanLySanBong\\QLSanBong\\FormDatSan.cs [Design]",
+              "RelativeToolTip": "FormDatSan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:47:53.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormHeThong.cs",
+              "DocumentMoniker": "D:\\QuanLySanBong\\QLSanBong\\FormHeThong.cs",
+              "RelativeDocumentMoniker": "FormHeThong.cs",
+              "ToolTip": "D:\\QuanLySanBong\\QLSanBong\\FormHeThong.cs",
+              "RelativeToolTip": "FormHeThong.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAB0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:26:00.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormHeThong.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLySanBong\\QLSanBong\\FormHeThong.cs",
+              "RelativeDocumentMoniker": "FormHeThong.cs",
+              "ToolTip": "D:\\QuanLySanBong\\QLSanBong\\FormHeThong.cs [Design]",
+              "RelativeToolTip": "FormHeThong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T21:25:58.932Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

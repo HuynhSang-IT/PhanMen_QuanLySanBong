@@ -1,0 +1,175 @@
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ReportThongKe.rdlc
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ReportTKNam.rdlc
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ReportNhanVien.rdlc
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ReportQLSan.rdlc
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\DoAnQLSanBong.exe.config
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\DoAnQLSanBong.exe
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\DoAnQLSanBong.pdb
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\EnvDTE.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\stdole.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.MSXML.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\EnvDTE.xml
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.csproj.AssemblyReference.cache
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormDangKy.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormDangNhap.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormDatSan.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormHeThong.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormInHoaDon.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormNhapTentaiKhoan.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormQuangCao.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormQuanLyNhanVien.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormQuanLySan.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormQuenMatKhau.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormReportNhanVien.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormReportQLSan.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormReportThongKeNam.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormReportThongKeThang.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormThanhToan.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormThongKe.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormThongTinKhachHang.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormTrangChu.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormTrangUser.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.Properties.Resources.resources
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.csproj.GenerateResource.cache
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.csproj.CoreCompileInputs.cache
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSa.42579194.Up2Date
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.exe
+E:\Tai lieu c++, c#,web\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.pdb
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ReportThongKe.rdlc
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ReportTKNam.rdlc
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ReportNhanVien.rdlc
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ReportQLSan.rdlc
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\DoAnQLSanBong.exe.config
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\DoAnQLSanBong.exe
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\DoAnQLSanBong.pdb
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\EnvDTE.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\stdole.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\Microsoft.MSXML.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\EnvDTE.xml
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.csproj.AssemblyReference.cache
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.exe.config
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormDangKy.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormDangNhap.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormDatSan.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormHeThong.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormInHoaDon.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormNhapTentaiKhoan.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormQuangCao.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormQuanLyNhanVien.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormQuanLySan.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormQuenMatKhau.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormReportNhanVien.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormReportQLSan.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormReportThongKeNam.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormReportThongKeThang.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormThanhToan.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormThongKe.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormThongTinKhachHang.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormTrangChu.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.FormTrangUser.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.Properties.Resources.resources
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.csproj.GenerateResource.cache
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.csproj.CoreCompileInputs.cache
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSa.42579194.Up2Date
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.exe
+D:\DoAnCoSo1\DoAnQLSanBong\obj\Debug\DoAnQLSanBong.pdb
